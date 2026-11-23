@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Competition data and local patient-level artifacts
+input/*.csv
+reports/holdout_predictions.csv
+reports/split_indices.npz
+submissions/*.csv
+catboost_info/
+reports/development_predictions.csv

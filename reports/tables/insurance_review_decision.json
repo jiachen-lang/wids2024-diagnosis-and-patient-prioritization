@@ -1,0 +1,10 @@
+{
+  "research_comparison": "do_not_adopt_under_current_guardrails",
+  "all_relative_checks_passed": false,
+  "default_policy": "global_baseline",
+  "failed_relative_checks": [
+    "No higher overall FPR"
+  ],
+  "reason": "Failed relative research checks: No higher overall FPR",
+  "production_acceptance": "not_established"
+}

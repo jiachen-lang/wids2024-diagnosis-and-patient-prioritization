@@ -1,0 +1,12 @@
+{
+  "competition": {
+    "development_oof_auc": 0.7990161467976246,
+    "holdout_auc": 0.7943388503747667,
+    "holdout_auc_ci": [
+      0.7754362142477695,
+      0.8131217882873116
+    ],
+    "holdout_brier": 0.1510218951972133,
+    "features": 81
+  }
+}

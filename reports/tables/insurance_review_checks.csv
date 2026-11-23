@@ -1,0 +1,4 @@
+check,baseline,candidate,passed
+Smaller group FNR gap,0.2405138339920949,0.0823529411764706,True
+No higher worst-group FNR,0.38181818181818183,0.24598930481283424,True
+No higher overall FPR,0.4472704714640198,0.4609181141439206,False
